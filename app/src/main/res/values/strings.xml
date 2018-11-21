@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SMS Message</string>
+    <string name="permission_alert_dialog_title">SMS Permission</string>
+    <string name="permission_dialog_message">Do you wish to grant SMS Message Sending permission to this app.</string>
+    <string name="action_ok">Okay</string>
+</resources>
